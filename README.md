@@ -1,2 +1,4 @@
 hi :) 
-I enjoy data science, problem solving, and epidemiology. For now, I am learning Python. 
+she/they
+I enjoy data science, problem solving, and epidemiology.
+I hope to learn different coding languages and even dable with mechanical software.
